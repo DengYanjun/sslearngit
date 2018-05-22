@@ -1,2 +1,4 @@
 first notepad
-Creating a new branch is quick & simple.
+<<<<<<< 
+C:\Documents and Settings\Administrator
+>>>>>>> featurel
